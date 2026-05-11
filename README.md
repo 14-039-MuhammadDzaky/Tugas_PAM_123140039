@@ -7,8 +7,17 @@ Repository ini berisi kumpulan tugas mata kuliah Pemrograman Mobile yang mencaku
 
 ## 📂 Daftar Proyek
 
-### 1. [Tugas5](Tugas5) (Latihan dan Tugas Praktikum Minggu 5)
+### 1. [Tugas2](Tugas2)
 **Topik: Proyek utama yang menggabungkan seluruh konsep navigasi yang telah dipelajari.**
+
+### 2. [Tugas3](Tugas3)
+**Topik: Aplikasi profil pribadi sederhana yang dibangun menggunakan framework Compose Multiplatform..**
+
+### 3. [Tugas4](Tugas4)
+**Topik: Pengembangan aplikasi profil dengan manajemen state yang lebih terstruktur..**
+
+### 4. [Tugas5](Tugas5)
+**Topik: Aplikasi catatan yang mendemonstrasikan sistem navigasi.**
 
 ---
 
