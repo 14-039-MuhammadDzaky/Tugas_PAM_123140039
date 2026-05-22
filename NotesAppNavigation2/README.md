@@ -39,25 +39,6 @@ CREATE TABLE noteEntity (
 );
 ```
 
-## Tampilan Aplikasi
-
-### Video Demonstrasi
-https://github.com/user-attachments/assets/800cb344-e015-4b17-8fc5-84f9a6f04707
-
-### Screenshot Update (Minggu 7)
-
-| Home Screen | Detail Notes | Add Notes |
-|:---:|:---:|:---:|
-| ![Home](screenshot/Home.jpg) | ![Detail](screenshot/Detail%20Notes.jpg) | ![Add](screenshot/AddNotes.jpg) |
-
-| Edit Notes | Settings | Dark Favorites |
-|:---:|:---:|:---:|
-| ![Edit](screenshot/EditNotes.jpg) | ![Settings](screenshot/Settings.jpg) | ![DarkFavorite](screenshot/DarkFavorite.jpg) |
-
-| Profile |
-|:---:|
-| ![Profile](screenshot/Profile.jpg) |
-
 ## Struktur Layar
 - **Home**: Daftar catatan dengan fitur pencarian dan toggle favorit.
 - **Settings**: Pengaturan tema dan urutan sortir.
@@ -75,4 +56,4 @@ https://github.com/user-attachments/assets/800cb344-e015-4b17-8fc5-84f9a6f04707
 
 ---
 **Oleh:**
-- Nahli Saud Ramdani (123140049)
+- Muhammad Dzaky (123140039)

@@ -25,14 +25,6 @@ Repository ini berisi kumpulan tugas mata kuliah Pemrograman Mobile yang mencaku
 ### 6. [NotesAppNavigation2](NotesAppNavigation2)
 **Topik: lanjutan dari Tugas5 dengan persistensi data yang kuat dan fitur pencarian/sortir yang dioptimasi.**
 
-### 7. [NotesAppNavigation3](NotesAppNavigation3)
-**Topik: lanjutan dari NotesAppNavigation2 dengan implementasi arsitektur yang modular dan fitur hardware-aware.**
-
-### 8. [Praktikum P9](Praktikum%20P9)
-**Topik: Aplikasi catatan cerdas "MY NOTES" yang mengintegrasikan kecerdasan buatan.**
-
-### 9. [NotesAppNavigation4](NotesAppNavigation4)
-**Topik: lanjutan dari NotesAppNavigation2 dengan mengimplementasikan standar arsitektur modern dengan pengujian otomatis (Unit Testing & UI Testing).**
 
 ---
 
