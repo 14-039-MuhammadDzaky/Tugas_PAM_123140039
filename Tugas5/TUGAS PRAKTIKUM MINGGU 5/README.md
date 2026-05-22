@@ -22,14 +22,10 @@ Project ini adalah aplikasi catatan modern yang dibangun menggunakan **Jetpack C
 
 ## Tampilan Aplikasi
 
-### Video Demo
-https://github.com/user-attachments/assets/6300f394-8208-40b1-a16c-41ffd449e1d6
-
 ### Screenshot
 ![Notes](screenshot/Notes.jpg)
 ![Detail](screenshot/Detail.jpg)
 ![Favorites](screenshot/Favorites.jpg)
-![Profile](screenshot/Profile.jpg) |
 
 ## Struktur Layar
 - **Home (My Daily Notes)**: Daftar catatan interaktif dengan ringkasan tugas dan status favorit.
