@@ -19,10 +19,7 @@ Repository ini berisi kumpulan tugas mata kuliah Pemrograman Mobile yang mencaku
 ### 4. [Tugas5](Tugas5)
 **Topik: Aplikasi catatan yang mendemonstrasikan sistem navigasi.**
 
-### 5. [NewsReaderApp](NewsReaderApp)
-**Topik:  Aplikasi pembaca berita Indonesia yang mendukung fitur offline caching.**
-
-### 6. [NotesAppNavigation2](NotesAppNavigation2)
+### 5. [NotesAppNavigation2](NotesAppNavigation2)
 **Topik: lanjutan dari Tugas5 dengan persistensi data yang kuat dan fitur pencarian/sortir yang dioptimasi.**
 
 
